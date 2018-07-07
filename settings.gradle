@@ -1,0 +1,3 @@
+rootProject.name = 'spring-kotlin-spock-boilerplate'
+
+include 'api';
